@@ -1,0 +1,13 @@
+Welcome to the Bash Escape Room!
+================================
+In the following excercise you are requested to move from room to room, starting with `room1/`.
+
+From `room2` and above the rooms are locked with codes. To get these codes you will have to solve the previous rooms.
+
+In each room the README file will guide you, sometimes it will be clear, but sometimes you will be required to think and research your way to the solution.
+
+To pass the code to the locked rooms open the README file using 'vi' or 'vim'.
+
+Good Luck!
+
+The develeap education team.
